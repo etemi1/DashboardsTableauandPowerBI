@@ -14,3 +14,5 @@
 ![IMG-7717](https://user-images.githubusercontent.com/41531796/199372526-3f9b8cd2-d776-4bec-a9b3-dbc36e3e3928.jpg)
 ![IMG-7718](https://user-images.githubusercontent.com/41531796/199372542-44715863-3150-4175-b8e0-6a5dbeeea21b.jpg)
 ![Slide2](https://user-images.githubusercontent.com/41531796/199372558-ad440ba8-a3cd-4c54-aa31-276512b167db.PNG)
+![salesmarket](https://user-images.githubusercontent.com/41531796/199372793-dcc69d54-1a58-4000-8cc7-7d1cd265b148.png)
+![Dashboard 1](https://user-images.githubusercontent.com/41531796/199372891-10b928ec-8f78-4b65-a95e-76b769a9bb5e.png)
