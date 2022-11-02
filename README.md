@@ -1,5 +1,7 @@
 # DashboardsTableauandPowerBI
 ![IMG-7727](https://user-images.githubusercontent.com/41531796/199372130-9cbd099f-3e76-4f68-83c7-67517f4dd312.jpg)
+![IMG-7728](https://user-images.githubusercontent.com/41531796/199373246-1c5d7a58-e5ba-45fb-ba6e-41de94e3789c.jpg)
+
 ![IMG-7720](https://user-images.githubusercontent.com/41531796/199372139-716bd68f-3a45-4681-9d65-c50b282be5db.jpg)
 ![IMG-7719](https://user-images.githubusercontent.com/41531796/199372146-507132be-7c5b-4245-b963-64bec655d3ed.jpg)
 ![Sales Dashboard Analytics](https://user-images.githubusercontent.com/41531796/199372202-f7f5c249-491d-4083-a71c-96b362935a1e.png)
