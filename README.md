@@ -1,1 +1,16 @@
 # DashboardsTableauandPowerBI
+![IMG-7727](https://user-images.githubusercontent.com/41531796/199372130-9cbd099f-3e76-4f68-83c7-67517f4dd312.jpg)
+![IMG-7720](https://user-images.githubusercontent.com/41531796/199372139-716bd68f-3a45-4681-9d65-c50b282be5db.jpg)
+![IMG-7719](https://user-images.githubusercontent.com/41531796/199372146-507132be-7c5b-4245-b963-64bec655d3ed.jpg)
+![Sales Dashboard Analytics](https://user-images.githubusercontent.com/41531796/199372202-f7f5c249-491d-4083-a71c-96b362935a1e.png)
+![Dashboard 1 (9)](https://user-images.githubusercontent.com/41531796/199372223-333f2f73-c630-45c1-8991-0a6ea4d4524f.png)
+![Dashboard 1 (11)](https://user-images.githubusercontent.com/41531796/199372279-1c298bad-4ce3-413e-9d79-5d34a9e46f72.png)
+![Dashboard 1 (7)](https://user-images.githubusercontent.com/41531796/199372316-b723cb5a-d4b1-4a64-9460-b7606756e812.png)
+![Dashboard 1 (8)](https://user-images.githubusercontent.com/41531796/199372326-6b647589-b900-4c6c-ba9f-993e7364bf45.png)
+
+![Dashboard 1 (6)](https://user-images.githubusercontent.com/41531796/199372400-68f67766-ab97-49d0-9ef2-1b584bc7c6f3.png)
+![IMG-7715](https://user-images.githubusercontent.com/41531796/199372509-232e5f05-d435-4fa3-8f49-d166fa89cd30.jpg)
+![IMG-7716](https://user-images.githubusercontent.com/41531796/199372517-0bc05ced-2f01-407c-9235-68720305b7bf.jpg)
+![IMG-7717](https://user-images.githubusercontent.com/41531796/199372526-3f9b8cd2-d776-4bec-a9b3-dbc36e3e3928.jpg)
+![IMG-7718](https://user-images.githubusercontent.com/41531796/199372542-44715863-3150-4175-b8e0-6a5dbeeea21b.jpg)
+![Slide2](https://user-images.githubusercontent.com/41531796/199372558-ad440ba8-a3cd-4c54-aa31-276512b167db.PNG)
